@@ -1,0 +1,7 @@
+Binary representation of 300 is: [1, 0, 0, 1, 0, 1, 1, 0, 0]
+Binary representation of 256 is: [1, 0, 0, 0, 0, 0, 0, 0, 0]
+Binary representation of 245 is: [1, 1, 1, 1, 0, 1, 0, 1]
+Binary representation of 65 is: [1, 0, 0, 0, 0, 0, 1]
+Binary representation of 32 is: [1, 0, 0, 0, 0, 0]
+Binary representation of 9 is: [1, 0, 0, 1]
+Binary representation of 1 is: [1]
